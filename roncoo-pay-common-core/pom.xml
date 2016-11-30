@@ -211,11 +211,13 @@
 		<dependency>
 			<groupId>alipay</groupId>
 			<artifactId>alipay-sdk-java20151021120052</artifactId>
+			<version>20151021120052</version>
 		</dependency>
 
 		<dependency>
 			<groupId>alipay</groupId>
 			<artifactId>alipay-trade-sdk</artifactId>
+			<version>1.0.0</version>
 		</dependency>
 
 		<!-- http://mvnrepository.com/artifact/jaxen/jaxen -->

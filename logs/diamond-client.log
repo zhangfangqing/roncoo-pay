@@ -1,0 +1,14 @@
+2016-11-30 14:57:10,547 INFO  - [serverlist] updated to [10.253.4.62]
+
+2016-11-30 14:57:11,584 INFO  - [apache-urls] [10.253.4.62]
+
+2016-11-30 14:57:11,584 INFO  - [cache-urls] [10.253.4.62]
+
+2016-11-30 14:57:11,584 INFO  - ########## environment ok.
+
+2016-11-30 14:57:11,600 INFO  - [subscribe] HSF.GLOBAL.CONFIGURATION, HSF
+
+2016-11-30 14:57:11,600 INFO  - [add-listener] ok, HSF.GLOBAL.CONFIGURATION, HSF, count=1
+
+2016-11-30 14:57:16,682 INFO  - [notify-ok] HSF.GLOBAL.CONFIGURATION, HSF, md5=, listener=com.taobao.hsf.configuration.component.GlobalConfigurationComponent$1$1@14a654d8
+
